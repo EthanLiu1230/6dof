@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/btnPic">
+        <file>start.png</file>
+        <file>end.png</file>
+        <file>frame.png</file>
+        <file>reset.png</file>
+        <file>zero.png</file>
+        <file>X.png</file>
+        <file>Y.png</file>
+        <file>Z.png</file>
+        <file>phi.png</file>
+        <file>sita.png</file>
+        <file>yaw.png</file>
+    </qresource>
+</RCC>
