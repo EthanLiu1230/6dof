@@ -3,6 +3,7 @@
 Machine Vision: 6 degrees of freedom movement tracking with cooperative target in realtime.
 
 ## The Design of Cooperative Target
+![image](https://github.com/EthanLiu1230/6dof/assets/26967250/950bb1d7-2850-4e48-b13d-a91d75fe2cba)
 
 
 
